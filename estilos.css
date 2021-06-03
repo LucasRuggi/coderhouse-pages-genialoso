@@ -215,6 +215,10 @@ div div img {
           justify-content: center;
 }
 
+.txtMapa {
+  padding: 50px;
+}
+
 .mapa {
   text-align: center;
   margin-top: 50px;
