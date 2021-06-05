@@ -114,6 +114,12 @@ div div img {
   padding: 15px;
 }
 
+.txtInicio {
+  padding: 0px 25px 25px 25px;
+  font-size: 22px;
+  text-align: justify;
+}
+
 .row {
   margin: 0 !important;
 }
@@ -157,7 +163,7 @@ div div img {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: center;
   color: #263e6d;
-  padding: 20px;
+  padding: 50px 20px 20px 20px;
   margin: 0;
 }
 
