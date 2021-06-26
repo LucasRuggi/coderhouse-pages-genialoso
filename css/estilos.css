@@ -7,24 +7,24 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url(imagenes/fondoHerramientas2.jpg);
+  background-image: url(../imagenes/fondoHerramientas2.jpg);
   background-size: cover;
   background-position: right;
 }
 
 header {
-  background-image: url(imagenes/fondoHeader3.png);
+  background-image: url(../imagenes/fondoHeader3.png);
   background-position: bottom;
   background-repeat: initial;
 }
 
 nav {
-  background-image: url(imagenes/fondoHeader3.png);
+  background-image: url(../imagenes/fondoHeader3.png);
   background-position: bottom;
 }
 
 footer {
-  background-image: url(imagenes/fondoFooter3.png);
+  background-image: url(../imagenes/fondoFooter3.png);
 }
 
 main {
@@ -256,7 +256,7 @@ div img {
 
 @media screen and (max-width: 320px) {
   header {
-    background-image: url(imagenes/fondo.jpg);
+    background-image: url(../imagenes/fondo.jpg);
   }
 }
 
