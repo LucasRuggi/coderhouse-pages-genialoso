@@ -154,13 +154,8 @@ div {
 .inicioImagenes {
     width: auto;
     height: 260px;
-    transition: 0.5s;
 }
 
-.inicioImagenes:hover {
-    transform: scale(1.2);
-    filter: drop-shadow(1);
-}
 
 .titulo__img {
     text-align: center;
