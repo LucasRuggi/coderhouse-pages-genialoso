@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
@@ -153,28 +154,59 @@ div {
 }
 .inicioImagenes {
     width: auto;
-    height: 260px;
-    box-shadow: black;
+    height:300px ;
 }
 
 
 .titulo__img {
     text-align: center;
+    height: 100px;
     color: rgb(67, 26, 218);
     font-size: 30px;
     padding-bottom: 30px;
 }
+.contenedorProductos{
+    margin-bottom: 50px;
+}
 
 .txt__imgProductos {
+    height: 125px;
     text-align: center;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    padding: 0px 15px 15px 15px;
+
 }
 
 .precioProductos{
     text-align: center;
 }
+
+.contenedorProductos {
+    margin-bottom: 50px;
+  }
+
+.contenedorBotonesDelCarrito {
+    text-align: center;
+    height: 40px;
+
+    :hover{
+        background-color: #799ce0;
+    }
+}
+
+.botonesProductos{
+    background-color: #526997 ;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5%;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.contenedorCadaProducto{
+    padding-bottom: 40px;
+}
+
 
 .img__nosotros {
     width: 200px;
@@ -272,4 +304,3 @@ div {
         height: 100px;
     }
 }
-
