@@ -1,5 +1,4 @@
 let hardcodingProduct = 
-
 [{
     titulo: "Velador Cubo",
     img: "../imagenes/velador1.png",
@@ -30,6 +29,12 @@ let hardcodingProduct =
     descripcion: "Es una lampara para pared, que cuenta con un cable de color negro y un acabado de barniz. La madera es de pinopara mejor terminacion",
     precio: 2199,
     id: 4, 
+} , {
+    titulo: "Velador Tulipa",
+    img: "../imagenes/velador2.png",
+    descripcion: "El velador tulipa cuenta con una base de madera de aglomerado con un acabado en barniz y una tulipa de vidrio",
+    precio: 2199,
+    id: 5,
 }];
 
 
@@ -37,7 +42,7 @@ let hardcodingProduct =
 let productosJS = document.getElementById('productosHardcoding');
 
 
-function generarProducto(){
+function generarProductoHTML(){
     hardcodingProduct.forEach(producto => {
         productosJS.innerHTML = productosJS.innerHTML + `
         <div class="col-xs-12 col-sm-12 col-md-3 contenedorCadaProducto">
@@ -61,6 +66,8 @@ function generarProducto(){
     })
 }
 
-generarProducto();
+generarProductoHTML();
+
+
 
 
