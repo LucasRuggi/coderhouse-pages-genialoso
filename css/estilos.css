@@ -390,4 +390,11 @@ div img {
 .contenedorRegistrar {
   margin: 30px 0px 0px 0px;
 }
+
+.totalPrecioCarrito {
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
 /*# sourceMappingURL=estilos.css.map */

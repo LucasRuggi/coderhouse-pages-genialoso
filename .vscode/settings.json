@@ -1,5 +1,6 @@
 {
     "diffEditor.wordWrap": "on",
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 135
+    "editor.wordWrapColumn": 135,
+    "liveServer.settings.port": 5501
 }
