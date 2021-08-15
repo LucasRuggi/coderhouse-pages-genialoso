@@ -6,8 +6,8 @@
 function loginUsuario(event){
     event.preventDefault();
 
-    let email = document.getElementById("ingresoEmail").value;
-    let pass = document.getElementById("ingresoPass").value;
+    let email = $("#ingresoEmail").value;
+    let pass = $("#ingresoPass").value;
     const passyEmail = localStorage.getItem(email);
 
     if(passyEmail == pass){
