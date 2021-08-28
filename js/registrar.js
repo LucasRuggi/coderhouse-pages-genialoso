@@ -2,8 +2,8 @@
 
 function nuevoUsuario(event){
     event.preventDefault();
-    let email = $("#registroEmail").value;
-    let pass = $("#registroPass").value;
+    let email = document.getElementById("registroEmail").value;
+    let pass = document.getElementById("registroPass").value;
     cargarUsuario(email,pass)
 }   
 

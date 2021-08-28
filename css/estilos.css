@@ -391,6 +391,15 @@ div img {
   margin: 30px 0px 0px 0px;
 }
 
+.btnReset {
+  margin: 10px;
+  padding: 15px;
+  color: white;
+  background-color: #0062cc;
+  border-radius: 50%;
+  font-size: 20px;
+}
+
 .totalPrecioCarrito {
   text-align: center;
   -webkit-box-pack: center;

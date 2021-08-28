@@ -1,4 +1,6 @@
-let hardcodingProduct = 
+
+
+/*let hardcodingProduct = 
 [{
     titulo: "Velador Cubo",
     img: "../imagenes/velador1.png",
@@ -75,5 +77,5 @@ function generarProductoHTML(){
 generarProductoHTML();
 
 
-
+*/
 
