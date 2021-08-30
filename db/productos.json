@@ -1,46 +1,39 @@
 
-
 [
     {
     "titulo": "Velador Cubo",
     "img": "../imagenes/velador1.png",
     "descripcion": "Es un velador cubo de 7x7 de madera de pino, cuenta con un acabado de barniz para una mejor terminacion",
     "precio": 1799,
-    "id": 0,
-    "foto": "<i class=\"fas fa-lightbulb\"></i>"
+    "id": 0
 }, {
     "titulo": "Velador Tulipa",
     "img": "../imagenes/velador2.png",
     "descripcion": "El velador tulipa cuenta con una base de madera de aglomerado con un acabado en barniz y una tulipa de vidrio",
     "precio": 2199,
-    "id": 1,
-    "foto": "<i class=\"fas fa-lightbulb\"></i>"
+    "id": 1
 }, {
     "titulo": "Espejo Loren",
     "img": "../imagenes/espejo.png",
     "descripcion": "Es un espjero con luces, su medida es de 45cm x 70 cm, las luces son leds con un consumo de 3W y tiene una terminacion en color blanco",
     "precio": 6699,
-    "id": 2,
-    "foto": "<i class=\"fas fa-adjust\"></i>"
+    "id": 2
 }, {
     "titulo": "Lampara Colgante",
     "img": "../imagenes/colgante.png",
     "descripcion": "Es una lampara para pared, que cuenta con un cable de color negro y un acabado de barniz. La madera es de pino para mejor terminacion",
     "precio": 2199,
-    "id": 3,
-    "foto": "<i class=\"fas fa-lightbulb\"></i>"
+    "id": 3
 } , {
     "titulo": "Lampara Colgante1",
     "img": "../imagenes/colgante.png",
     "descripcion": "Es una lampara para pared, que cuenta con un cable de color negro y un acabado de barniz. La madera es de pinopara mejor terminacion",
     "precio": 2199,
-    "id": 4,
-    "foto": "<i class=\"fas fa-lightbulb\"></i>"
+    "id": 4
 } , {
     "titulo": "Velador Tulipa1",
     "img": "../imagenes/velador2.png",
     "descripcion": "El velador tulipa cuenta con una base de madera de aglomerado con un acabado en barniz y una tulipa de vidrio",
     "precio": 2199,
-    "id": 5,
-    "foto": "<i class=\"fas fa-lightbulb\"></i>"
+    "id": 5
 }]
